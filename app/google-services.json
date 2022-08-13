@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207531687313",
+    "project_id": "my-splash-screen-cdffb",
+    "storage_bucket": "my-splash-screen-cdffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207531687313:android:b0e04486996907526d6e30",
+        "android_client_info": {
+          "package_name": "com.devil.mysplashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207531687313-d1pvtl930kkumt4iucepvcns2deivvq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDOxk42CH4O70rgxdh0kWfvi0mGf5SKl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207531687313-d1pvtl930kkumt4iucepvcns2deivvq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
